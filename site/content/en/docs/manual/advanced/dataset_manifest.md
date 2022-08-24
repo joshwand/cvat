@@ -13,7 +13,13 @@ description: This section on [GitHub](https://github.com/cvat-ai/cvat/tree/devel
 
 ### Steps before use
 
-When used separately from Computer Vision Annotation Tool(CVAT), the required dependencies must be installed
+The `create.py` manifest creation utility is located in `utils/dataset_manifest`:
+
+```bash
+cd utils/dataset_manifest
+```
+
+When used separately from Computer Vision Annotation Tool(CVAT), the required dependencies must be installed.
 
 #### Ubuntu:20.04
 
